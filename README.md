@@ -82,4 +82,4 @@ This dashboard provides a comprehensive view of sales performance, including met
 
 ## Dashboard Preview:
 
-![Super Store Sales Dashboard](./[Screenshot%202024-12-25%20141855.png](https://github.com/gangwar428/Sales-Dashboard/issues/1))
+![Super Store Sales Dashboard ](https://github.com/user-attachments/assets/7a1d6531-8ffa-4359-a376-73b7f819122b)
